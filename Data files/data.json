@@ -1,0 +1,32 @@
+[
+    {
+        "first name": "sumit",
+        "last name": "lasiwa",
+        "roll no": "41",
+        "email address": "sumit@gmail.com",
+        "phone number": "9877886677",
+        "Address": "bkt",
+        "marks": {
+            "python": 99,
+            "c": 77,
+            "java": 88,
+            "php": 77,
+            "total": 341
+        }
+    },
+    {
+        "first name": "swikar",
+        "last name": "basnet",
+        "roll no": "45",
+        "email address": "swikar@gmail.com",
+        "phone number": "9898989898",
+        "Address": "ktm",
+        "marks": {
+            "python": 20,
+            "c": 30,
+            "java": 50,
+            "php": 70,
+            "total": 170
+        }
+    }
+]

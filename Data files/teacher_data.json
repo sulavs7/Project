@@ -1,0 +1,26 @@
+[
+    {
+        "first name": "jaya",
+        "last name": "sapkota",
+        "teacher id": "1",
+        "email address": "jaya@gmail.com",
+        "phone number": "9803308961",
+        "Address": "banepa"
+    },
+    {
+        "first name": "prashant",
+        "last name": "adhikari",
+        "teacher id": "02",
+        "email address": "prashant@gmail.com",
+        "phone number": "9878787876",
+        "Address": "dhulikhel"
+    },
+    {
+        "first name": "sulav",
+        "last name": "sapkota",
+        "teacher id": "40",
+        "email address": "sulav@gmail.com",
+        "phone number": "9877665533",
+        "Address": "banepa"
+    }
+]
